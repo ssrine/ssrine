@@ -32,7 +32,24 @@
 
 ### 🔗 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nisrineelharkani)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Nisrine-ElHarkani)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nisrine-el-harkani-1567b1204/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/ssrine)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harkaninissrin81@gmail.com)  
 
 💬 Feel free to reach out to me! Let's connect and build amazing things together. 🚀
+
+---
+
+### 🌱 I’m currently learning:
+- Advanced Django techniques
+- Enhancing my problem-solving skills through hackathons
+
+### 🤝 I’m looking to collaborate on:
+- Open-source projects
+- Full-stack web and mobile applications
+
+### ⚡ Fun fact:
+- I love solving puzzles and challenges!
+
+---
+
