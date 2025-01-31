@@ -25,8 +25,8 @@
 
 ### 📊 GitHub Stats:
 
-![Nisrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nisrine-ElHarkani&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisrine-ElHarkani&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+![Nisrine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssrine&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssrine&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
 ---
 
